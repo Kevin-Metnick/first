@@ -1,6 +1,6 @@
 <?php
-	echo "Sdads";
-echo "hellow";
-	echo SADASDAda;
+    echo "Sdads";
+    echo "hellow";
+    echo "SADASDAda";
 ?>
 
